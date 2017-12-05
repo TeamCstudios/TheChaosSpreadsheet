@@ -11,4 +11,4 @@ There will be weekly updates on the status of the sheet every Tuesday.
 
 Last Week's Update (unavailable)
 
-All updates (unavailable
+All updates (unavailable)
