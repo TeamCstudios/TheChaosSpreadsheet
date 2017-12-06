@@ -5,10 +5,10 @@ Welcome to the home of the Chaos Spreadsheet, a speadsheet where anything can ha
 
 Anyone who views it can edit. You can put in text, merge cells, protect ranges, color cells, and so much more!
 
-There will be weekly updates on the status of the sheet every Tuesday.
+There will be daily updates on the status of the sheet.
 
-[This Week's Update](5december17.md)
+[Today's Update](5december17.md)
 
-Last Week's Update (unavailable)
+[Yesterday's Update](5december17.md)
 
 All updates (unavailable)
