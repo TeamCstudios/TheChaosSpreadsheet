@@ -11,4 +11,4 @@ There will be daily updates on the status of the sheet.
 
 [Yesterday's Update](5december17.md)
 
-All updates (unavailable)
+[All updates](updates.md)
